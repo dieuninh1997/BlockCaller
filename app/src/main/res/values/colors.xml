@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  <color name="colorPrimary">#0067C6</color>
+    <color name="colorPrimaryDark">#00529E</color>
+    <color name="colorAccent">#fdb538</color>-->
+
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#FF8A65</color>
+
+    <color name="bg_screen_wecome">#0067C6</color>
+    <color name="colorLabel">#728ee1</color>
+    <color name="colorRound">#CDDC39</color>
+    <color name="colorBackgroundPressed">#eceff1</color>
+    <color name="colorBackgroundNormal">#ffffff</color>
+</resources>

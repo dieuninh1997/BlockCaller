@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BlockCaller</string>
+    <!-- <string name="msgPermission">Bạn cần cấp quyền cho ứng dụng để đảm bảo ứng dụng hoạt động bình thường!</string>
+   -->
+    <string name="msgPermission">You grant the permissions to the callblocker feature will work.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_help_blacklist">Add new entries through + button</string>
+    <string name="title_delete_item">Delete</string>
+    <string name="msg_delete_item">Are you sure to delete?</string>
+    <string name="discard_dialog_button_ok">Ok</string>
+    <string name="discard_dialog_button_no">No</string>
+    <string name="discard_dialog_button_cancel">Cancel</string>
+    <string name="add_to_blacklist_success">%1$s saved into black list</string>
+    <string name="add_to_blacklist_error">Unable to add this phone number with error %1$s</string>
+    <string name="title_action">Black list</string>
+    <string name="text_help_log_blocked">Chưa có số nào trong mục nhật ký đã chặn</string>
+    <string name="title_delete_log">Xóa nhật ký chặn</string>
+    <string name="message_dialog_delete_log">Bạn muốn xóa nhật ký đã chặn?</string>
+    <string name="title_dialong">Adding into Black List</string>
+    <string name="button_cancel">Cancle</string>
+    <string name="button_add">Add</string>
+    <string name="title_logcall">Call Log</string>
+    <string name="permission_not_granted">This application requires access to contacts to allow calls from contacts. Without the permission "access contacts" this feature will not work. Please allow the app access to it in the next dialog.</string>
+    <string name="grant_permissions">Enable</string>
+    <string name="no_number_enter">No phone number entered!</string>
+</resources>
